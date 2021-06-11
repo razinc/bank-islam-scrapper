@@ -1,7 +1,11 @@
-# bank_islam_status_report
-Generate balance of your acount
+## Summary
 
-#TODO:
-1. Print stage as a indication.
-2. Sometimes, error can occur where pasword input doesn't occur when private image & private word is acknowledged.
-3. Proper close of browser.
+This is a web scrapper built using selenium specifically for Bank Islam which is one of the banks in Malaysia.
+
+## Information Scrapped
+
+1. Available Balance
+
+## Usage
+
+Insert both User ID & password in bank_islam_credentials.py
